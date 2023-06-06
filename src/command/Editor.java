@@ -10,7 +10,7 @@ package command;
  */
 public class Editor {
     public void open() {
-        System.out.println("Abrir archivo");
+        System.out.println("Abrir muchos archivo");
         // Lógica para abrir un archivo
     }
     
